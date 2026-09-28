@@ -1,0 +1,10 @@
+{
+  "name": "Deskora",
+  "description": "Discover thoughtfully chosen workspaces for focused days, creative sessions and productive work.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
